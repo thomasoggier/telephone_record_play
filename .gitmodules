@@ -1,0 +1,4 @@
+[submodule "lib/Adafruit_VS1053_Library"]
+	path = lib/Adafruit_VS1053_Library
+	branch = master
+	url = https://github.com/adafruit/Adafruit_VS1053_Library.git
